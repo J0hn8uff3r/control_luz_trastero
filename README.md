@@ -7,6 +7,7 @@ Simulación.pdsprj it's a Proteus circuit simulation file.
 Arduino.LIB file must be placed inside "LIBRARY" Proteus folder to simulate the .hex compiled file.
 
 ![Proteus simulation](https://i.snipboard.io/dsqp3Z.jpg)
-![alt tag](https://snipboard.io/tfEGDi.jpg)
+![alt tag](https://i.snipboard.io/mtTwEp.jpg)
+![alt tag](https://i.snipboard.io/dS5PKX.jpg)
 
 # Trust me, it was frustrating.
