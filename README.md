@@ -10,4 +10,4 @@ Arduino.LIB file must be placed inside "LIBRARY" Proteus folder to simulate the 
 ![alt tag](https://i.snipboard.io/mtTwEp.jpg)
 ![alt tag](https://i.snipboard.io/dS5PKX.jpg)
 
-# Trust me, it was frustrating.
+
