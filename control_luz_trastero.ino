@@ -27,7 +27,7 @@ void preshHallwayButton()
 void loop()
 {
 
-    unsigned long currentMinutes = millis() / 80000;
+    unsigned long currentMinutes = millis() / 60000;
 
     // Simulates a button presh to avoid light turns off
     if (light_status == '1' && currentMinutes - previousAutoPulseMinutes >= preshButtonEvery)
